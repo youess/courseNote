@@ -9,4 +9,4 @@
 
 
 [1]: https://docs.python.org/3.5/library/pathlib.html
-[2]: ./pathlib_note.py
+[2]: ./pathlib_note.ipynb
