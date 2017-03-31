@@ -10,7 +10,7 @@ import zipfile
 
 zip_archive_path = sys.argv[1]
 archive_extract_path = sys.argv[2]
-extract_file_pattern = re.compile('.*\\.mat|.*\\.pdf')
+extract_file_pattern = re.compile('.*\\.mat|.*\\.pdf|.*\\.txt')
 
 
 # check if the data directory existed
